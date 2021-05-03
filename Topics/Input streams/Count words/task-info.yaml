@@ -15,9 +15,8 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/9099#comment
-status: Failed
+status: Solved
 feedback:
-  message: |
-    Failed test #3 of 4. Wrong answer
-  time: Tue, 20 Apr 2021 19:20:00 UTC
+  message: <html>Correct solution</html>
+  time: Mon, 03 May 2021 09:07:06 UTC
 record: -1
